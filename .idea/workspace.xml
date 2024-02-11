@@ -12,18 +12,7 @@
       <change afterPath="$PROJECT_DIR$/../valentine-day/config/webpack.config.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../valentine-day/config/webpack/persistentCache/createEnvironmentHash.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../valentine-day/config/webpackDevServer.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../valentine-day/public/asked.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../valentine-day/public/finally.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../valentine-day/src/components/askedGif/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../valentine-day/src/components/button/button.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../valentine-day/src/components/button/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../valentine-day/src/components/finallyGif/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../valentine-day/src/components/types/types.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../valentine-day/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../valentine-day/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valentine-day/src/components/header/header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../valentine-day/src/components/header/header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valentine-day/src/components/header/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../valentine-day/src/components/header/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valentine-day/src/components/main/App.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../valentine-day/src/components/main/App.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valentine-day/src/components/main/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../valentine-day/src/components/main/App.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707661619033</updated>
-      <workItem from="1707661620207" duration="16260000" />
+      <workItem from="1707661620207" duration="17040000" />
     </task>
     <task id="LOCAL-00001" summary="feat: configuration">
       <created>1707663142838</created>
@@ -118,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707666559871</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: finally work">
+      <created>1707679653632</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707679653632</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: configuration" />
     <MESSAGE value="feat: header" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: header" />
+    <MESSAGE value="feat: finally work" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: finally work" />
   </component>
 </project>
