@@ -2,12 +2,12 @@
     font-size: 26px;
     font-weight: 600;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 50px;
     font-family: Arial, sans-serif;
 }
 
 .day {
-    background: linear-gradient(to left, red, purple);
+    background: linear-gradient(to left, red, #ab16ab);
     color: transparent;
     background-clip: text;
     transition: opacity .4s linear;
