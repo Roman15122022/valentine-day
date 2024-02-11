@@ -2,29 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6022a827-03ba-42d7-bfe0-d97948eb4ea3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../valentine-day/config/env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valentine-day/config/getHttpsConfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valentine-day/config/jest/babelTransform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valentine-day/config/jest/cssTransform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valentine-day/config/jest/fileTransform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valentine-day/config/modules.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valentine-day/config/paths.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valentine-day/config/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valentine-day/config/webpack/persistentCache/createEnvironmentHash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valentine-day/config/webpackDevServer.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valentine-day/scripts/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valentine-day/scripts/start.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valentine-day/scripts/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valentine-day/src/components/header/header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valentine-day/src/components/header/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../valentine-day/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../valentine-day/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../valentine-day/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../valentine-day/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../valentine-day/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../valentine-day/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valentine-day/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valentine-day/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../valentine-day/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valentine-day/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valentine-day/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valentine-day/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valentine-day/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valentine-day/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valentine-day/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valentine-day/src/App.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valentine-day/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../valentine-day/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valentine-day/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../valentine-day/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valentine-day/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valentine-day/src/react-app-env.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valentine-day/src/reportWebVitals.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../valentine-day/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valentine-day/src/components/main/App.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../valentine-day/src/components/main/App.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valentine-day/src/components/main/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../valentine-day/src/components/main/App.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../valentine-day" />
@@ -41,6 +50,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/reps/basic-js-ds",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
@@ -77,11 +87,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707661619033</updated>
-      <workItem from="1707661620207" duration="1459000" />
+      <workItem from="1707661620207" duration="4439000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: configuration">
+      <created>1707663142838</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707663142838</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: configuration">
+      <created>1707663163088</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707663163088</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: configuration" />
   </component>
 </project>
