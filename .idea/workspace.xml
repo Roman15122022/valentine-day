@@ -1,8 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;D:/reps/basic-js-ds&quot;
+  <component name="ChangeListManager">
+    <list default="true" id="6022a827-03ba-42d7-bfe0-d97948eb4ea3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../valentine-day/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../valentine-day/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valentine-day/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../valentine-day/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valentine-day/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../valentine-day/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valentine-day/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valentine-day/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../valentine-day/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valentine-day/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valentine-day/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valentine-day/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valentine-day/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valentine-day/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valentine-day/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valentine-day/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valentine-day/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../valentine-day/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valentine-day/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../valentine-day/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valentine-day/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valentine-day/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valentine-day/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valentine-day/src/setupTests.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../valentine-day" />
+  </component>
+  <component name="ProjectId" id="2cE0q7wruyrJ3sJDoP9oagbRcn2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/reps/basic-js-ds",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "D:\\reps\\valentine-day\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\reps\valentine-day\src\components\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/../valentine-day/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6022a827-03ba-42d7-bfe0-d97948eb4ea3" name="Changes" comment="" />
+      <created>1707661619033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707661619033</updated>
+      <workItem from="1707661620207" duration="1459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
 </project>
