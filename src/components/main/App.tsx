@@ -14,8 +14,8 @@ function App() {
   }
 
   const handleHover = () => {
-    const top = Math.floor(Math.random() * 100) + 1;
-    const left = Math.floor(Math.random() * 100) + 1;
+    const top = Math.floor(Math.random() * 95) + 1;
+    const left = Math.floor(Math.random() * 95) + 1;
     console.log(top, left);
     setCoords({top: top + '%', left: left + '%'});
   }

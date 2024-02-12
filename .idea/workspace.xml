@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6022a827-03ba-42d7-bfe0-d97948eb4ea3" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../valentine-day/config/env.js" afterDir="false" />
@@ -12,7 +15,13 @@
       <change afterPath="$PROJECT_DIR$/../valentine-day/config/webpack.config.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../valentine-day/config/webpack/persistentCache/createEnvironmentHash.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../valentine-day/config/webpackDevServer.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valentine-day/scripts/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valentine-day/scripts/start.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../valentine-day/scripts/test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../valentine-day/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../valentine-day/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valentine-day/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../valentine-day/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valentine-day/src/components/main/App.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../valentine-day/src/components/main/App.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../valentine-day/src/components/main/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../valentine-day/src/components/main/App.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +55,9 @@
     "last_opened_file_path": "D:/reps/basic-js-ds",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
     "ts.external.directory.path": "D:\\reps\\valentine-day\\node_modules\\typescript\\lib",
@@ -84,7 +95,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707661619033</updated>
-      <workItem from="1707661620207" duration="17040000" />
+      <workItem from="1707661620207" duration="17697000" />
+      <workItem from="1707681124977" duration="600000" />
     </task>
     <task id="LOCAL-00001" summary="feat: configuration">
       <created>1707663142838</created>
@@ -114,7 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707679653632</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: finally + gh-pages">
+      <created>1707680308506</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707680308506</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: finally + gh-pages">
+      <created>1707680385393</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707680385393</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +150,7 @@
     <MESSAGE value="feat: configuration" />
     <MESSAGE value="feat: header" />
     <MESSAGE value="feat: finally work" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: finally work" />
+    <MESSAGE value="feat: finally + gh-pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: finally + gh-pages" />
   </component>
 </project>

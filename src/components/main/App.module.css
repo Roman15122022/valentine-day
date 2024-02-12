@@ -1,3 +1,6 @@
+.app {
+    background-color: pink;
+}
 .gif {
     display: flex;
     justify-content: center;
